@@ -6,7 +6,7 @@ public class CountSubString {
 	public static void main(String[] args) {
 		
 		String str="abcndcabcndcabcndcertsdfertsdf";
-		String sub="ndc";
+		String sub="abc";
 		int index=str.indexOf(sub);
 		int count=0;
 		
